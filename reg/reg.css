@@ -38,6 +38,7 @@ label{
     display: inline-block;
 }
 input[type=submit] {
+    margin-left: 10rem;
     background-color: #000000;
     color: white;
     padding: 12px 20px;
